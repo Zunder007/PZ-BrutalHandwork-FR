@@ -1,0 +1,15 @@
+Sandbox_FR = {
+    Sandbox_BrutalHandwork = "Brutal Handwork",
+
+    Sandbox_BrutalHandwork_DualWieldMelee = "Alterne automatiquement les attaques gauche et droite lorsque vous utilisez une arme de mêlée dans chaque main",
+    Sandbox_BrutalHandwork_DualWieldMelee_tooltip = "Lorsqu'un joueur utilise des armes de mêlée à une main, alterne automatiquement entre les attaques gauche et droite. Désactiver l'option nécessite que la touche soit enfoncée pour qu'une attaque de l'autre main soit effectuée.",
+
+    Sandbox_BrutalHandwork_EnableUnarmed = "Activer les attaques à mains nues",
+    Sandbox_BrutalHandwork_EnableUnarmed_tooltip = "Même lorsqu'un joueur n'est pas armé, il sera en mesure d'attaquer. Par défaut, il faut viser et maintenir la touche Control Gauche pour frapper.",
+
+    Sandbox_BrutalHandwork_AlwaysUnarmed = "Levez toujours les poings lorsque vous n'êtes pas armé",
+    Sandbox_BrutalHandwork_AlwaysUnarmed_tooltip = "Lorsqu'un joueur n'est pas armé, le personnage levera toujours les poings lorsqu'on actionne l'attaque avec la visée. Désactiver cette option nécessite que la touche d'attaque soit maintenu lors de la visée.",
+
+    Sandbox_BrutalHandwork_BaseAttackOverride = "EXPÉRIMENTAL : modification des dégâts d'attaque",
+    Sandbox_BrutalHandwork_BaseAttackOverride_tooltip = "REMARQUE : VALABLE UNIQUEMENT EN SOLO !! <LINE> Les attaques utilisent les fonctions de calcul des dégâts de BrutalHandwork au lieu de celles du jeu de base. Cela force la cohérence entre les dégâts attendus pour les attaques de chacune des 2 mains. <LINE> AVERTISSEMENT : Cette option est actuellement expérimentale, mais elle deviendra probablement la valeur par défaut et sera requise pour de nombreuses options supplémentaires à l'avenir.  Cette fonction est stable, mais peut provoquer des incohérences par rapport au jeu de base car elle est encore en développement. VEUILLEZ LIRE la description du mod pour les limitations actuelles!",
+}
